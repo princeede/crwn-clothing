@@ -1,4 +1,4 @@
-import SignIn from "../../components/sign-in/sign.componet";
+import SignIn from "../../components/sign-in/sign-in.componet";
 import SignUp from "../../components/sign-up/sign-up.componet";
 
 import "./sign-in-and-sign-up.styles.scss";
